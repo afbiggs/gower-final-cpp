@@ -16,11 +16,6 @@ const int shearEndSwitch = 33;       // Limit switch to detect shear end
 // const int shearEndSwitch = 35;       // Limit switch to detect shear end
 
 
-// const char* ssid = "Special Projects-5GHz";
-// const char* password = "sprojects1!";
-// const char* host = "192.168.1.186";
-// const int port = 4300;
-
 const char* ssid = "gauer";
 const char* password = "adminadmin";
 const char* host = "192.168.4.1";
